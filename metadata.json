@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TalentScout AI",
+  "description": "Intelligent resume shortlisting and analysis tool powered by Gemini 2.5 Flash. Upload job descriptions and candidate resumes to get instant rankings and detailed fit analysis.",
+  "requestFramePermissions": []
+}
